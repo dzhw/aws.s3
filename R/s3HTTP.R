@@ -65,7 +65,6 @@ function(verb = "GET",
         key <- NULL
         secret <- NULL
         session_token <- NULL
-        region <- NULL
     }
 
     # handle 'show_progress' argument
